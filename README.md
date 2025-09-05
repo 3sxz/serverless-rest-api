@@ -13,7 +13,7 @@ This project implements a serverless REST API using AWS Lambda, API Gateway, and
 
 
 ## Architecture Diagram
-![Solution Architecture](Serverless API Architecture Diagram.png)
+![Solution Architecture](Serverless_API_Architecture_Diagram.png)
 
 
 ## Setup
@@ -36,3 +36,4 @@ This project implements a serverless REST API using AWS Lambda, API Gateway, and
 - Create, read, update, delete items.
 - Serverless, auto-scaling architecture.
 - Frontend to list items dynamically.
+
